@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Levy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=u_levy&count_private=true&show_icons=true&theme=dracula&border_radius=25)](https://github.com/levy002/github-readme-stats) -->
+
