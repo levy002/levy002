@@ -5,7 +5,6 @@
 - 🔭 I’m currently training to become a full-stack software developer at [Microverse inc](https://www.microverse.org/)
 - 🌱 I’m honing my JavaScript skills
 - 😄 Funfat: I love cooking and dancing in my free time
-- 📫 Reach me here: levy.ukwi002@gmail.com 
 
 
 ### Languages & Frameworks.
