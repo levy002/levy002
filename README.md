@@ -4,7 +4,7 @@
 <!-- **levy002/levy002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently training to become a full-stack software developer at [Microverse inc](https://www.microverse.org/)
 - 🌱 I’m honing my JavaScript skills
-- 😄 Funfat: I love cooking and dancing in my free time
+- 😄 Funfact: I love cooking and dancing in my free time
 
 
 ### Languages & Frameworks.
