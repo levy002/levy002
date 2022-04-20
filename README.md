@@ -6,7 +6,7 @@
 </h1> <a href="https://github.com/levy002/levy002/"> </a>
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Web+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
 </p>
@@ -14,8 +14,9 @@
 
 <!-- **levy002/levy002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently training to become a full-stack software developer at [Microverse inc](https://www.microverse.org/)
-- 🌱 I’m honing my JavaScript skills
+- 🌱 I’m currently learning React.js and Redux
 - 😄 Funfact: I love cooking and dancing in my free time
+- ✨ Ask me about JavaScript....
 
 
 <h2 align="left">Languages and Tools:</h2>
