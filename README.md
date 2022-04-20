@@ -1,4 +1,15 @@
- ### Hi there, I'm Levy...👋
+ 
+
+ <h1 align="center">
+	<a href="https://levy002.github.io/My-Portofolio/">Hi, I'm Levy!</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1> <a href="https://github.com/levy002/levy002/"> </a>
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Web+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+</p>
 
 
 <!-- **levy002/levy002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -7,18 +18,24 @@
 - 😄 Funfact: I love cooking and dancing in my free time
 
 
-### Languages & Frameworks.
+<h2 align="left">Languages and Tools:</h2>
 
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,webpack)
 
-### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=levy002&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levy002&langs_count=5&theme=tokyonight)]()
+<br>
+<!-- ![levy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levy002&theme=react-dark&hide_border=true&area=true) -->
 
 
-<!-- [![Levy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=u_levy&count_private=true&show_icons=true&theme=dracula&border_radius=25)](https://github.com/levy002/github-readme-stats) -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=levy002&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="levy002" />
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=levy002&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="levy002" />
+ 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=levy002&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="levy002" /> 
+</p>
 
 <h3 align="left">Let's Connect 🤝</h3>
 <div align="left">
@@ -30,5 +47,3 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 href="https://twitter.com/levy_ukwishaka"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
-
-
