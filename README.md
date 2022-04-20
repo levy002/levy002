@@ -1,4 +1,3 @@
- 
 
  <h1 align="center">
 	<a href="https://levy002.github.io/My-Portofolio/">Hi, I'm Levy!</a>
@@ -48,3 +47,8 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 href="https://twitter.com/levy_ukwishaka"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
+
+<div align="end">
+<p><b>Visitors Count</b></p>  
+<img src="https://profile-counter.glitch.me/{levy002}/count.svg" />
+</div>
