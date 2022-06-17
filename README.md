@@ -14,13 +14,13 @@
 <!-- **levy002/levy002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently training to become a full-stack software developer at [Microverse inc](https://www.microverse.org/)
 - 🌱 I’m currently learning Ruby and Database
-- 😄 Funfact: I love cooking and dancing in my free time
+- 😄 Funfact: I love reading books and traveling in my free time
 - ✨ Ask me about JavaScript....
 
 
 <h2 align="left">Languages and Tools:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,webpack)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,webpack,ruby,postgresql)
 
 <br>
 <!-- ![levy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levy002&theme=react-dark&hide_border=true&area=true) -->
