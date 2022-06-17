@@ -18,10 +18,18 @@
 - ✨ Ask me about JavaScript....
 
 
-<h2 align="left">Languages and Tools:</h2>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,webpack,ruby,postgresql)
-
+<h2 align="center">Languages:</h2>
+<div align="center">
+	
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby)
+	
+</div>
+<h2 align="center">Frameworks and Tools:</h2>
+<div align="center">
+	
+![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,postgresql,webpack)
+	
+</div>
 <br>
 <!-- ![levy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levy002&theme=react-dark&hide_border=true&area=true) -->
 
