@@ -10,7 +10,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer</i>
+    <i>- I'm a Full-Stack Web Developer</i>
 </h3>
 
 <h3>
