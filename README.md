@@ -7,18 +7,18 @@
 
 <!-------------------------------- About Section ---------------------------------->
 
-<h3>
-    <i>- I'm a Full-Stack Web Developer</i>
-</h3>
 
-<h3>
-  <i>- I have a penchant for writing clean code. I excel at both hard work and being astute </i>
-</h3>
+<h3>I am a passionate full-stack software developer who enjoys working on all kinds of tech.</h3>
 
-<h3>
-    <i>- Currently, I'm sharpening my skills on Ruby and Ruby on Rails at <a href="https://www.microverse.org">Microverse inc.</a></i>
-</h3>
-<br>
+- I’m currently available for hire or open to new job opportunities
+
+- 👯 I’m looking to collaborate on **Software Development Projects**
+
+- 🦾 I'm a problem solver and fast learner with good communication skills
+
+- 💬 Ask me about **Software Development**
+
+- ⚡ I like 👨‍💻 : Programming | ☕: Coffee | 📖: books <hr>
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
