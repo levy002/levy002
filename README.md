@@ -76,5 +76,15 @@
 <img src="https://profile-counter.glitch.me/{levy002}/count.svg" />
 </div>
 
-
+<!----------------------------------- My Badges ------------------------------------>
+<h2 text-align = "center"><i>My Bagdes</i></h2>
+<p align="center">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57460171" alt="Badge" />
+   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950729" alt="Badge" />
+   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge" />
+   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51665289" alt="Badge" />
+   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/54062922" alt="Badge" />
+   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56108364" alt="Badge" />
+   
+</p>
  
