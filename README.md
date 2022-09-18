@@ -41,7 +41,7 @@
 <br>
 <!-- ![levy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levy002&theme=react-dark&hide_border=true&area=true) -->
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+<!----------------------------------- GitHub Stats Section ------------------------------->
 
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
