@@ -54,7 +54,7 @@
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=levy002&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="levy002" /> 
 </p>
 
-<!----------------------------------- Social Media Links Section ------------------------------------>
+<!----------------------------------- Social Media Links Section ---------------------------------->
 
 <h2><i>Let's Connect</i></h2>
 
