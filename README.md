@@ -65,7 +65,7 @@
     </a>
     <a href="https://twitter.com/levy_ukwishaka">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/levy_ukwishaka" />
-    <a title="mohitsehrawat000@gmail.com" href="mailto:levy.ukwi002@gmail.com">
+    <a title="levy.ukwi002@gmail.com" href="mailto:levy.ukwi002@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="levy002@gmail.com" />
     </a>
 </p>
