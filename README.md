@@ -75,28 +75,5 @@
 <p><b>Visitors Count</b></p>  
 <img src="https://profile-counter.glitch.me/{levy002}/count.svg" />
 </div>
-
-<!----------------------------------- My Badges ------------------------------------>
-<h2 text-align = "center"><i>My Bagdes</i></h2>
-<p align="center">
-   <a href="https://www.credential.net/20b8e6e3-8282-40d1-8f47-34ec30652433#gs.a6gwzk">
-       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57460171" alt="Badge" />      
-   </a>
-   <a href="https://www.credential.net/f5c6ae87-c314-4d5d-b846-863c5b7918cf">
-       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950729" alt="Badge" />      
-   </a>
-   <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge" />     
-   </a>
-   <a href="https://www.credential.net/baced9fb-8898-4071-9a14-b50ca800513f#gs.a6l6o6">
-       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51665289" alt="Badge" />      
-   </a>
-   <a href="https://www.credential.net/d2592539-7a5d-42d1-9bb9-9ed99f71074d#gs.a6l5y6">
-      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/54062922" alt="Badge" />       
-   </a>
-   <a href="https://www.credential.net/b5189db0-d79e-47ec-84e7-7129d359b46e#gs.a6l50d">
-         <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56108364" alt="Badge" />     
-   </a>
-   
-</p>
+<!-- ?
  
