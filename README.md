@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- ⚡ I like 👨‍💻 : Programming | ☕: Coffee | 📖: books <hr>
+- ⚡ I like 👨‍💻 : Programming | ☕: Coffee | <hr>
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -37,6 +37,9 @@
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt=""rails />
     <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt=""jest" />
+  <img src="https://img.shields.io/badge/-typescript-%23316192?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+ <img src="https://img.shields.io/badge/-nodejs-%23316192?style=for-the-badge&logo=node&logoColor=white" alt="nodejs" />
+ <img src="https://img.shields.io/badge/-express-%23316192?style=for-the-badge&logo=express&logoColor=white" alt="express" />
 </p>
 <br>
 <!-- ![levy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levy002&theme=react-dark&hide_border=true&area=true) -->
